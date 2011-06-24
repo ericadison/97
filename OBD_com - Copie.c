@@ -5,7 +5,7 @@
 **       File: OBD_com.c
 **    Summary: definition of the object directory concerning the communication
 **             must be encoded by user
-**    Version: 4.30.04
+**    Version: 4.30.04 fdsfsdfsdfsdfsdfsdfsdfsdsdffds
 **
 **************************************************************************
 **************************************************************************
